@@ -6,7 +6,7 @@
 
   <groupId>geco</groupId>
   <artifactId>login-generator</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
 
   <name>login-generator</name>
 
@@ -22,6 +22,11 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.8.1</version>
     </dependency>
   </dependencies>
 
